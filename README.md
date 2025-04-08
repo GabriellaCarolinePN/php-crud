@@ -25,3 +25,15 @@ A simple and complete CRUD application built with native PHP. This project featu
 - jQuery + DataTables
 - Spipu HTML2PDF
 - PhpSpreadsheet
+
+## User Login
+
+- Akun Admin
+  Username  : admin
+  Password  : 123456
+- Akun Operator Barang
+  Username  : admbarang
+  Password  : 123456
+- Akun Operator Mahasiswa
+  Username  : admmahasiswa
+  Password  : 123456
